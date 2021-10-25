@@ -115,6 +115,7 @@ display:flex;
 .info{
     display:flex;
 }
+
 .imgmens{
     display:flex;
     width: 188px;
@@ -229,11 +230,32 @@ display:flex;
 
 .footer{
     display:flex;
+    
 }
 
 .icons{
     display:flex;
     flex-wrap:wrap;
     align-content:flex-end;
+    width: 26px;
+    height: 26px;
     
+}
+
+.others{
+    display: flex;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+}
+
+.others1{
+    display:flex;
+    justify-content:center;
+    margin: 25px;
+    padding: 10px;
 }
