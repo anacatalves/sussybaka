@@ -21,7 +21,7 @@
     font-size: 36px;
     line-height: 42px;
 
-    color: #ee0f0f;
+
 }
 
 
@@ -232,7 +232,6 @@ display:flex;
 .icons{
     display:flex;
     flex-wrap:wrap;
-    align-content:flex-end;
     
     width: 26px;
     height: 26px;
@@ -252,7 +251,7 @@ display:flex;
 
 .others1{
     display:flex;
-    justify-content:center;
+    justify-content:space-between;
     margin: 25px;
-    padding: 10px;
+    padding: 5px;
 }
