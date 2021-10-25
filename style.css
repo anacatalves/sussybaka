@@ -1,0 +1,239 @@
+.header{
+    display:flex;
+}
+
+.imgheart{
+    display:flex;
+    width: 63px;
+    height: 59px;
+   
+}
+
+.title1{
+    display:flex;
+    width: 209px;
+    height: 41px;
+    
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+
+    color: #000000;
+}
+
+
+.top{
+    display:flex;
+    width: 83px;
+    height: 30px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+}
+
+.products{
+    display:flex;
+    justify-content:center;
+    margin: 25px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.main{
+display:flex;
+}
+
+.imgcouch{
+    display:flex;
+    width: 812px;
+    height: 556px;
+}
+
+.bigtitle{
+    display:flex;
+    width: 406px;
+    height: 171px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 88px;
+    line-height: 103px;
+
+    color: #000000;
+}
+
+.title3{
+    width: 436px;
+    height: 72px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+    
+    color: #6F6A6A;
+}
+
+.button{
+    display:flex;
+    background: #000000;
+    border-radius: 35px;
+}
+
+.button1{
+    display:flex;
+    width: 259px;
+    height: 64px;
+
+    background: #000000;
+    border-radius: 35px;
+}
+
+.button2{
+    display:flex;
+    width: 183px;
+    height: 64px;
+
+    background: #AE9FAE;
+    border-radius: 35px;
+}
+
+.info{
+    display:flex;
+}
+.imgmens{
+    display:flex;
+    width: 188px;
+    height: 270px;
+
+    
+}
+
+.imgmen{
+    display:flex;
+    width: 182px;
+    height: 302px;
+
+}
+
+.imgwoman{
+    display:flex;
+    width: 172px;
+    height: 313px;
+    
+}
+
+.title4{
+    display:flex;
+    width: 183px;
+    height: 5.34px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 23px;
+    line-height: 27px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+}
+.text1{
+    display:flex;
+    width: 234px;
+    height: 168px;
+   
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 20px;
+
+    color: #949494;
+}
+
+.title5{
+    display:flex;
+    width: 140px;
+    height: 38px;
+
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+
+    color: #000000;
+
+}
+
+.text2{
+    display:flex;
+    width: 234px;
+    height: 168px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #949494;
+}
+
+.title6{
+    display:flex;
+    width: 202px;
+    height: 29px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+
+    color: #000000;
+}
+
+.text3{
+    display:flex;
+    width: 232px;
+    height: 84px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 20px;
+
+    color: #949494;
+}
+
+.footer{
+    display:flex;
+}
+
+.icons{
+    display:flex;
+    flex-wrap:wrap;
+    align-content:flex-end;
+    
+}
