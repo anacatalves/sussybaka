@@ -52,13 +52,18 @@
 }
 
 .main{
-display:flex;
+    display:flex;
 }
 
 .imgcouch{
     display:flex;
     width: 812px;
     height: 556px;
+}
+
+.container{
+    display:flex;
+    flex-direction:column;
 }
 
 .bigtitle{
@@ -76,6 +81,7 @@ display:flex;
 }
 
 .title3{
+    display: flex;
 
     width: 436px;
     height: 72px;
@@ -89,10 +95,9 @@ display:flex;
     color: #6F6A6A;
 }
 
-.button{
+.buttons{
     display:flex;
-    background: #000000;
-    border-radius: 35px;
+    
 }
 
 .button1{
@@ -100,7 +105,7 @@ display:flex;
     width: 259px;
     height: 64px;
 
-    background: #000000;
+    background-color: #000000;
     border-radius: 35px;
 }
 
@@ -109,7 +114,7 @@ display:flex;
     width: 183px;
     height: 64px;
 
-    background: #AE9FAE;
+    background-color: #AE9FAE;
     border-radius: 35px;
 }
 
