@@ -76,6 +76,7 @@ display:flex;
 }
 
 .title3{
+
     width: 436px;
     height: 72px;
     
@@ -149,11 +150,6 @@ display:flex;
     font-size: 23px;
     line-height: 27px;
     
-    font-family: Roboto;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 22px;
-    line-height: 26px;
 }
 .text1{
     display:flex;
@@ -237,6 +233,7 @@ display:flex;
     display:flex;
     flex-wrap:wrap;
     align-content:flex-end;
+    
     width: 26px;
     height: 26px;
     
